@@ -1,0 +1,35 @@
+{
+  "pullEventClass":"SourceControl.Git.PullEventHandler.Default",
+  "percentClassReplace":"",
+  "Mappings":{
+    "CLS":{
+      "*":{
+        "directory":"cls/"
+      },
+      "UnitTest":{
+        "directory":"test/"
+      }
+    },
+    "DFI":{
+      "*":{
+        "directory":"dfi/"
+      }
+    },
+    "INC":{
+      "*":{
+        "directory":"inc/"
+      }
+    },
+    "MAC":{
+      "*":{
+        "directory":"rtn/"
+      }
+    },
+    "PTD":{
+      "*":{
+        "directory":"ptd/"
+      }
+    }
+  },
+  "decomposeProductions":false
+}
