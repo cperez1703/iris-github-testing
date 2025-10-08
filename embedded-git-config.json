@@ -6,6 +6,9 @@
       "*":{
         "directory":"cls/"
       },
+      "SourceControl":{
+        "directory":"TSTHL7/"
+      },
       "UnitTest":{
         "directory":"test/"
       }
@@ -28,6 +31,11 @@
     "PTD":{
       "*":{
         "directory":"ptd/"
+      }
+    },
+    "TSTHL7":{
+      "*":{
+        "directory":"SourceControl/"
       }
     }
   },
